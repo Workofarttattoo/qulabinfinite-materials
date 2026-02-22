@@ -11,7 +11,7 @@
 
 QuLabInfinite represents the future of materials discovery: an AI-driven research platform that:
 
-1. **Ingests 530K+ materials science papers** from arXiv daily
+1. **Ingested 2.2 million and counting published papers, materials science papers, "grounded" data** from arXiv / openalex/ etc
 2. **Generates novel material compositions** using generative AI
 3. **Validates predictions** using Digital Twin calibration (theory vs. reality)
 4. **Assesses commercial viability** via market analysis + patent landscape
